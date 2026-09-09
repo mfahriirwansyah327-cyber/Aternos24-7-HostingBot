@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "Bot",
   "bot-account": {
     "username": "YourBotUsername",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
-    "version": "",
+    "ip": "Fahri-knXD.aternos.me"
+    "port": 29218,
+    "version": 1.26.45.1"",
     "try-creative": false
   },
   "position": {
