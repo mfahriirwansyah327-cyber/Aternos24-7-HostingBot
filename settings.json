@@ -1,14 +1,14 @@
 {
-  "name": "Bot",
+  "name": "Fahri.bot",
   "bot-account": {
-    "username": "YourBotUsername",
-    "password": "",
+    "username": "Fahri.bot",
+    "password": "hahataut",
     "type": "offline"
   },
   "server": {
     "ip": "Fahri-knXD.aternos.me"
     "port": 29218,
-    "version": 1.26.45.1"",
+    "version": "1.26.45.1",
     "try-creative": false
   },
   "position": {
